@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 69f57587-1561-0033-a9a7-a7f7e08b6049
 ---
@@ -281,7 +284,7 @@ Elliptic/quasi-elliptic fibrations III, classification
 {{< tdopen >}}
 Classification (cont.)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/lect22))
 {{< tdclose >}}
 
