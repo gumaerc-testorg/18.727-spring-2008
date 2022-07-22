@@ -5,6 +5,7 @@ file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 13
 uid: 1f82b499-e9e1-26b4-4267-83de63c5c75b
 ---
 Lecture notes on classification of ruled surfaces.
-

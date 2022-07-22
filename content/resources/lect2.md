@@ -6,6 +6,7 @@ file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 2
 uid: 198274c0-c471-d31f-c05d-600e28e403db
 ---
 Lecture notes on linear equivalence, algebraic equivalence, and numerical equivalence of divisors.
-

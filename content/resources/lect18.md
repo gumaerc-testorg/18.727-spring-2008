@@ -5,6 +5,7 @@ file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 18
 uid: 4d7d0031-cf31-9c8b-4f2f-a5e143a643a1
 ---
 Lecture notes on classification of algebraic surfaces.
-

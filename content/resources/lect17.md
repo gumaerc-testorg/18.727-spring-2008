@@ -5,6 +5,7 @@ file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 17
 uid: 9fa71816-0b9c-9c0e-cc0d-ceeaa339e644
 ---
 Lecture notes on Enriques surfaces and bielliptic surfaces.
-

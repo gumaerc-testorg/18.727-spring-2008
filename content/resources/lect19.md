@@ -5,6 +5,7 @@ file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-200
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 19
 uid: 62bebf00-c7de-8ac3-860a-ce8a7adde4b1
 ---
 Lecture notes on elliptic and quasi-elliptic fibrations.
-
