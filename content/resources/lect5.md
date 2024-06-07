@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on algebraically closed ruled surfaces.
 file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/01767d4bef386f92c482c478e832fd2c_lect5.pdf
+file_size: 194897
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

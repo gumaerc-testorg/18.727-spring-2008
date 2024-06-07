@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on birational maps and minimal surfaces.
 file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/1f4f36355341a0e235b980608b418882_lect4.pdf
+file_size: 191136
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
