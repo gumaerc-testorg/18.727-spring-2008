@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on classification of ruled surfaces.
-file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/1f82b499e9e126b4426783de63c5c75b_lect13.pdf
+file: /ol-ocw-studio-app/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/1f82b499e9e126b4426783de63c5c75b_lect13.pdf
 file_size: 175121
 file_type: application/pdf
 learning_resource_types:
