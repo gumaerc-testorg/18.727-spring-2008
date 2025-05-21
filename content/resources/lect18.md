@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on classification of algebraic surfaces.
-file: /ol-ocw-studio-app/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/4d7d0031cf319c8b4f2fa5e143a643a1_lect18.pdf
+file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/4d7d0031cf319c8b4f2fa5e143a643a1_lect18.pdf
 file_size: 201868
 file_type: application/pdf
 learning_resource_types:
