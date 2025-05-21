@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on Enriques surfaces and bielliptic surfaces.
-file: /ol-ocw-studio-app/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/9fa718160b9c9c0ecc0dceeaa339e644_lect17.pdf
+file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/9fa718160b9c9c0ecc0dceeaa339e644_lect17.pdf
 file_size: 178915
 file_type: application/pdf
 learning_resource_types:
