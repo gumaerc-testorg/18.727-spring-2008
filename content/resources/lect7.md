@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on ruled surfaces and rational surfaces.
-file: /ol-ocw-studio-app/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/c70b901fa75c28df77cf5bca848bfa4f_lect7.pdf
+file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/c70b901fa75c28df77cf5bca848bfa4f_lect7.pdf
 file_size: 175131
 file_type: application/pdf
 learning_resource_types:
