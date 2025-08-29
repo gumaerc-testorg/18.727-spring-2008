@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Introductory lecture notes on algebraic surfaces.
-file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/cce30335f2f48854721e541f1c4cb536_lect1.pdf
+file: /ol-ocw-studio-app/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/cce30335f2f48854721e541f1c4cb536_lect1.pdf
 file_size: 166197
 file_type: application/pdf
 learning_resource_types:

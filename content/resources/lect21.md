@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on elliptic and quasi-elliptic fibrations.
-file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/708c288d022b9ec744d2c436cab83aa6_lect21.pdf
+file: /ol-ocw-studio-app/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/708c288d022b9ec744d2c436cab83aa6_lect21.pdf
 file_size: 178348
 file_type: application/pdf
 learning_resource_types:
