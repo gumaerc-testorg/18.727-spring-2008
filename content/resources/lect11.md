@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the Albanese variety.
-file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/d9444f1bed512d99c6a50b500f0e4cee_lect11.pdf
+file: /ol-ocw-studio-app/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/d9444f1bed512d99c6a50b500f0e4cee_lect11.pdf
 file_size: 142817
 file_type: application/pdf
 learning_resource_types:
