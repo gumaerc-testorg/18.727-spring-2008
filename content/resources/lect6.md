@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on ruled algebraic surfaces.
-file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/25df5925f0a5221eb65308f166960a9a_lect6.pdf
+file: /ol-ocw-studio-app/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/25df5925f0a5221eb65308f166960a9a_lect6.pdf
 file_size: 160629
 file_type: application/pdf
 learning_resource_types:

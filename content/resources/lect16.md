@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on K3 surfaces.
-file: /courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/5e74b1532c21707cbd915f2b71a4abd2_lect16.pdf
+file: /ol-ocw-studio-app/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/5e74b1532c21707cbd915f2b71a4abd2_lect16.pdf
 file_size: 173485
 file_type: application/pdf
 learning_resource_types:
